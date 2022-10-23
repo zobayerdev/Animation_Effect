@@ -22,6 +22,6 @@ BUBT - [Md. Zobayer Hasan Nayem](https://github.com/zobayerdev/)
 [![forthebadge](https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zobayerdev/)
 
 
-<img src="https://user-images.githubusercontent.com/74914169/197407469-8da394b9-4160-429c-8f79-f3b6b3171b30.png" width=25% height=25%>
-<img src="https://user-images.githubusercontent.com/74914169/197407471-7d9752f5-9bef-445b-baf5-ef41869d6b81.png" width=25% height=25%>
+<img src="https://user-images.githubusercontent.com/74914169/197407469-8da394b9-4160-429c-8f79-f3b6b3171b30.png" width=35% height=35%>
+<img src="https://user-images.githubusercontent.com/74914169/197407471-7d9752f5-9bef-445b-baf5-ef41869d6b81.png" width=35% height=35%>
 <img src="https://user-images.githubusercontent.com/74914169/197407381-5a3eaaaf-c133-4384-810f-c373f8be1d73.gif" width=45% height=45%>
